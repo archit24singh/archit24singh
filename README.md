@@ -12,7 +12,7 @@
 
 <!-- Social icons section -->
 <p align="center"> 
-  <a style="display: inline;" href="https://www.linkedin.com/in/archit-b-15568131/"><img width="46px" alt="Linkedin" title="Linkedin" src="Images/linkedin.png"/></a>
+  <a style="display: inline;" href="https://www.linkedin.com/in/archit-b-155681310/"><img width="46px" alt="Linkedin" title="Linkedin" src="Images/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
